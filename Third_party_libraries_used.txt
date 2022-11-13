@@ -1,0 +1,2 @@
+Third party libraries used:
+- SFML (linked using vcpkg)
